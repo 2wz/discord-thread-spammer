@@ -1,6 +1,6 @@
 
-# ODiscord CMT
-Discord server channel mass threader.
+# discord-thread-spammer
+discord-thread-spammer.
 
 ## Installation
 NPM Packages:
@@ -17,5 +17,3 @@ node index.js <discord_token> <channel_id> <max> <thread_name>
 + max - The max in making a thread.
 + thread_name - The thread name.
 
-## License
-MIT © I2rys
